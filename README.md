@@ -1,4 +1,7 @@
 # Brotli_UI
+Demo: https://martinezworldwide.github.io/Brotli_UI
+
+
 # Brotli UI
 
 A **zero‑dependency browser interface** for compressing and decompressing files with [Brotli](https://github.com/google/brotli) directly in the client. Drop it onto any static host (GitHub Pages, Netlify, Vercel, S3…) and you have an instant utility without servers or build steps.
